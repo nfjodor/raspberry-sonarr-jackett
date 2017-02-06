@@ -22,7 +22,7 @@ echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /
 After all, update sources and install mono with all dependencies:
 
 ```shell
-sud apt-get update && sudo apt-get install libmono-cil-dev -y
+sudo apt-get update && sudo apt-get install libmono-cil-dev -y
 ```
 
 ## Install Sonarr
@@ -44,7 +44,7 @@ echo "deb https://apt.sonarr.tv/ master main" | sudo tee -a /etc/apt/sources.lis
 Then update sources and install Sonarr:
 
 ```shell
-sud apt-get update && sudo apt-get install nzbdrone -y
+sudo apt-get update && sudo apt-get install nzbdrone -y
 ```
 
 Now modify folder owner to actual user:
