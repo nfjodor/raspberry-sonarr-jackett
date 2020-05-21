@@ -1,3 +1,5 @@
+# Warning! This repository is outdated and I stopped maintain.
+
 # Sonarr series management application with Jackett torrent provider tool for Raspberry Pi (debian)
 This is a tutorial to install sonarr series downloader with jackett (provides lot of torrent site like ncore.cc) to raspberry pi.
 
